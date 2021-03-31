@@ -1,6 +1,48 @@
+
+* {
+    box-sizing: border-box;
+}
+
 html p {
     font-size: larger;
     font-style: italic;
 text-align: center;
+/* margin-top: 35%; */
+/* vertical-align: middle; */
+/* line-height:500px ; */
 }
 
+#a p{
+    line-height:90px ;
+}
+
+#b p{
+    line-height:200px ;
+}
+
+#c p{
+    line-height:150px ;
+}
+
+#d p{
+    line-height:150px ;
+}
+
+#e p{
+    line-height:150px ;
+}
+#f p{
+    line-height:150px ;
+}
+
+#g p{
+    line-height:150px ;
+}
+
+#h p{
+    line-height: 150px;
+}
+
+#i p{
+    line-height:100px ;
+}
