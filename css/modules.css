@@ -5,7 +5,7 @@
       flex-direction: column;
       justify-content: center;
 /* align-content: center; */
-      width: 480px;
+      width: 30em;
         padding:0;
         margin: auto;
         text-align: center;
@@ -38,12 +38,12 @@
 }
 
     header {
-        width: 480px;
+        width: 50%;
         /* margin-top: 10%; */
     }
     
     #a{
-        width: 480px;
+        width: 30em;
         height: 75px;
         border: 1px solid #a39d9d;
        background-color: #e4fbff;
@@ -166,7 +166,7 @@ flex-direction: column;
         /* justify-content: center; */
         /* align-items: center; */
         /* height: 960px; */
-        width: 768px;
+        width: 60%;
         padding:0;
         margin: auto;
         text-align: center;
@@ -183,7 +183,7 @@ flex-direction: column;
     
     
     header {
-        width: 768px;
+        width: 50em;
         /* margin-top: 10%; */
     }
     
@@ -308,7 +308,7 @@ flex-direction: column;
   display: flex;
   justify-content: center;
     /* height: 960px; */
-    width: 1000px;
+    width: 50%;
     padding:0;
     margin: auto;
     text-align: center;
@@ -326,7 +326,7 @@ div{
 
 
 header {
-    width: 960px;
+    width: 90%;
     /* margin-top: 10%; */
 }
 
